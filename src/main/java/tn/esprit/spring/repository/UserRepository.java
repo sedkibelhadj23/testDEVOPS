@@ -6,6 +6,9 @@ import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
 import tn.esprit.spring.entities.User;
+//Fgfgfrhgrh
+//Fgfgfrhgrh
+
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
